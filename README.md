@@ -87,10 +87,6 @@ Aspiring fullstack developer, who love to build powerful and elegant products.  
 
 <img src="https://github-readme-stats.vercel.app/api?username=kkratos&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
@@ -107,7 +103,7 @@ Aspiring fullstack developer, who love to build powerful and elegant products.  
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 <p align='center'>
   📫 How to reach me: <a href='mailto:kamal.patel30@hotmail.com'>kamal.patel30@hotmail.com</a>
 </p>
