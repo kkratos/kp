@@ -30,7 +30,7 @@ Aspiring fullstack developer, who love to build powerful and elegant products.  
 - 🔭 ***Self-Taught*** Developer.  
   
 
-- ⛓ Exploring blockchain development with Kotlin  
+- ⛓ Learning blockchain development.  
   
 
 - 🎵 Loves listining to Rock music.  
