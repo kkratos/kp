@@ -6,7 +6,7 @@
 ![Profile views](https://gpvc.arturio.dev/kkratos)
 
 <p align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">💻 Mechanical Engineer - NYU / self-taught developer | 🛸 USA ,India</h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">💻 NYU Mechanical Engineering | self-taught developer</h3>
 </p>
 
 _**LATEST UPDATE:**_ _Exploring fullstack development with Reactjs, GraphQL, Nestjs, MongoDB, Postgres etc. 🥽.
