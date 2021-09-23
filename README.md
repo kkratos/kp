@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <img src="https://github.com/kkratos/kkratos/blob/master/infinite.png" height="200">
 </div>
 
 # Hi, there ✋! I'm [Kamal](https://kamalpatel.netlify.app)
