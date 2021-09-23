@@ -11,7 +11,7 @@
 
 _**LATEST UPDATE:**_ _Exploring fullstack development with Reactjs, GraphQL, Nestjs, MongoDB, Postgres etc. 🥽.
 
-- 👨‍💻 ***#SelfTaught*** Developer.
+- 👨‍💻 ***SelfTaught*** Developer.
 - 📱 Exploring Android development with Kotlin
 - 🎵 Loves listining to Rock music.
 - 🚀 Elon musk fan
